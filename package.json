@@ -1,0 +1,11 @@
+{
+  "name": "cinzo-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark, colourful, and (hopefully) easy-to-read syntax theme.",
+  "repository": "https://github.com/aceross/cinzo-syntax",
+  "license": "GPL",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
