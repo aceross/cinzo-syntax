@@ -1,4 +1,5 @@
 # Cinzo syntax
+[DEPRECATED] The styling in Atom has changed and this theme needs an update, don't know if I am going to get to it as I no longer use Atom. 
 
 A dark, colourful syntax theme for Atom Editor. It's the first theme package I've created. Any feedback appreciated. 
 
